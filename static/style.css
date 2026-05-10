@@ -37,7 +37,7 @@ p {
 }
 
 .avatar {
-	background-image: url(1778397926915.png);
+	background-image: url("./1778397926915.png");
 	display: inline-block;
 	width: 300px;
 	height: 300px;
